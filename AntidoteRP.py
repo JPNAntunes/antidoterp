@@ -11,7 +11,6 @@
 # ------------------------------------------------------------
 import os
 import sys
-from IPy import IP
 import subprocess
 import select
 
